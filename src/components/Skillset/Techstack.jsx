@@ -53,7 +53,7 @@ const Techstack = () => {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiReact />
-        <h6 className="tech-icon-text">React</h6>
+        <h6 className="tech-icon-text">React.js</h6>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiRedux />
