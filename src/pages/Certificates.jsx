@@ -19,7 +19,7 @@ const Certificates = () => {
           <Col md={4} className="project-card">
             <CertificateCard
               imgPath={merncert}
-              title="MERN Stack Development"
+              title="Frontend Development"
             />
           </Col>
           <Col md={4} className="project-card">
